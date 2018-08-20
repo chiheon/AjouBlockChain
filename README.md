@@ -1,0 +1,2 @@
+# AjouBlockChain
+Ajou univ. project
